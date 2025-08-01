@@ -1,0 +1,14 @@
+
+{
+  "initiativeId": "ABC-2025",
+  "alignmentScore": 83,
+  "roi": 4.5,
+  "riskLevel": "Low",
+  "platformReuse": ["Auth Microservice", "Data Pipeline"],
+  "dependencies": [
+    { "conflict": "Program X", "milestone": "Q3 Deployment" },
+    { "conflict": "Analytics Platform", "milestone": "Data Freeze" }
+  ],
+  "fundingSuggestion": "$2.1M",
+  "executiveSummary": "Initiative ABC aligned at 83%, ROI 4.5x, funding proposed: $2.1M"
+}
